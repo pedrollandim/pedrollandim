@@ -17,16 +17,12 @@
   
   <div>
     
-    <a href = "mailto:pedrolino.landim@gmail.com"><img src="https://github.com/pedrollandim/hello-world/blob/master/images/Gmail-D14836.svg" target="_blank"></a>
-    
+    <a href="mailto:pedrolino.landim@gmail.com"><img src="https://github.com/pedrollandim/hello-world/blob/master/images/Gmail-D14836.svg" target="_blank"></a>    
   <a href="https://www.linkedin.com/in/pedrolino-landim" target="_blank"><img src="https://github.com/pedrollandim/hello-world/blob/master/images/LinkedIn-0077B5.svg" target="_blank"></a>
     
   </div>
   
-  <div>
-  <a href="mailto:pedrolino.landim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
- 
+
   
 <!--
 **pedrollandim/pedrollandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
