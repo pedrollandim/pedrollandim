@@ -11,6 +11,9 @@
     <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/php-original.svg">
     <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/python-original.svg">
     
+    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/java-original.svg">
+    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/javascript-original.svg">
+    
 </div>
  
   ##
