@@ -30,7 +30,7 @@
   
   
   <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
 </p>
  
   
