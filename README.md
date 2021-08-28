@@ -29,15 +29,25 @@
   ![Snake animation](https://github.com/pedrollandim/pedrollandim/blob/output/github-contribution-grid-snake.svg)
   
   
-  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
-</p>
+  
  
   
 
-  ![alt text](https://github.com/pedrollandim/hello-world/blob/master/images/Sem%20t%C3%ADtulo2.png)
+ <a href="https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao" target="_blank"><img src="https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao/blob/main/analise_de_custos_com_lesao_por_pressao_esquematico.png" target="_blank"></a>
+  <br>
+
+  <br>
+  <a href="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator" target="_blank"><img src="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator/blob/main/Agenda_de_pacientes_Nurse_Navigator_esquematico.png" target="_blank"></a>
+  
+    ##
+  <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
+</p>
 <!--
-![alt text](https://github.com/pedrollandim/hello-world/blob/master/images/Sem%20t%C3%ADtulo.png)
+
+ ![alt text](https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao/blob/main/analise_de_custos_com_lesao_por_pressao_esquematico.png)
+  
+![alt text](https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao/blob/main/analise_de_custos_com_lesao_por_pressao_esquematico.png)
 
  ![alt text](https://github.com/pedrollandim/hello-world/blob/master/images/1_McxDkKR7RPpNrtMp3trYQQ.jpeg)
 https://github.com/pedrollandim/hello-world/blob/master/images/Sem%20t%C3%ADtulo.png
