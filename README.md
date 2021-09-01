@@ -19,7 +19,7 @@
     
 </div>
  
-  ##
+  ## Contacts
    
   <div>
   <a href="mailto:pedrolino.landim@gmail.com"><img src="https://github.com/pedrollandim/hello-world/blob/master/images/Gmail-D14836.svg" target="_blank"></a>
@@ -31,7 +31,7 @@
 
   
   
-  ##
+  ## Projects
  
   
 
