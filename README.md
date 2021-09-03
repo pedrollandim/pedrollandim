@@ -39,6 +39,10 @@
   <br>
 
   <a href="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator" target="_blank"><img src="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator/blob/main/Agenda_de_pacientes_Nurse_Navigator_esquematico.png" target="_blank"></a>
+  
+    <a href="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN" target="_blank"><img src="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN/blob/main/Prognostico_de_LGC_atraves_de_CNN.png" target="_blank"></a>
+  
+  
 
   ##
   ![Snake animation](https://github.com/pedrollandim/pedrollandim/blob/output/github-contribution-grid-snake.svg)
