@@ -45,13 +45,15 @@
 
   ##
   ![Snake animation](https://github.com/pedrollandim/pedrollandim/blob/output/github-contribution-grid-snake.svg)
-  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
-</p>
+  
   
   
      
 <!--
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
+</p>
 
  ![alt text](https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao/blob/main/analise_de_custos_com_lesao_por_pressao_esquematico.png)
   
