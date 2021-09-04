@@ -1,4 +1,4 @@
-### Hey!!!
+<!-- Obrigada @rafaballerini!!!!!-->
 
 ## Skills:
 <div>
@@ -34,16 +34,12 @@
   ## Projects
  
   
+  <a href="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN" target="_blank"><img src="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN/blob/main/Prognostico_de_LGC_atraves_de_CNN.png" target="_blank"></a>
   
  <a href="https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao" target="_blank"><img src="https://github.com/pedrollandim/analise_de_custos_com_lesao_por_pressao/blob/main/analise_de_custos_com_lesao_por_pressao_esquematico.png" target="_blank"></a>
   <br>
 
-  <a href="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator" target="_blank"><img src="https://github.com/pedrollandim/Agenda_de_pacientes_Nurse_Navigator/blob/main/Agenda_de_pacientes_Nurse_Navigator_esquematico.png" target="_blank"></a>
-  
-    
-  <a href="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN" target="_blank"><img src="https://github.com/pedrollandim/Prognostico_de_LGC_atraves_de_CNN/blob/main/Prognostico_de_LGC_atraves_de_CNN.png" target="_blank"></a>
-  
-  <a href="https://github.com/pedrollandim/Cronometro_para_nivel_de_fluidos_controlado_por_celular" target="_blank"><img src="https://github.com/pedrollandim/Cronometro_para_nivel_de_fluidos_controlado_por_celular/blob/main/Cronometro_para_nivel_de_fluidos_controlado_por_celular.png" target="_blank"></a>
+ 
 
   
 
