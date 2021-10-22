@@ -49,10 +49,7 @@
   ##
   ![Snake animation](https://github.com/pedrollandim/pedrollandim/blob/output/github-contribution-grid-snake.svg)
   
-  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/pedrollandim/pedrollandim"></a>
-</p>
-  
+ 
      
 <!--
 
