@@ -5,6 +5,8 @@
   <a href="https://github.com/pedrollandim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrollandim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollandim&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+  <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=pedrollandim&bg_color=141321&hide_border=true&color=87ceeb&line=b0e0e6&point=fffafa"/>
 </div>
   
  
