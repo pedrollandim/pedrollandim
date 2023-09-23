@@ -1,14 +1,12 @@
-<!-- Obrigada @rafaballerini!!!!!-->
-  
+<!-- Obrigado @rafaballerini!!!!!-->
+
+
+
  
   
   <div style="display: inline_block"><br>
     <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/java-original.svg">
-    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/c-original.svg">
-    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/html5-original.svg">
-    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/php-original.svg">
     <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/python-original.svg">
-    <img align="center" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/javascript-original.svg">
     
 </div>
  
@@ -39,8 +37,7 @@
 
   
 
-  ##
-  ![Snake animation](https://github.com/pedrollandim/pedrollandim/blob/output/github-contribution-grid-snake.svg)
+
   
      
 <!--
